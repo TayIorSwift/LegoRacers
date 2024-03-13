@@ -1,0 +1,99 @@
+# COMBINED.MDB.mtl
+newmtl testnub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffnub.BMP
+   map_Kd ffnub.BMP
+
+newmtl unassign
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tread4.BMP
+   map_Kd tread4.BMP
+
+newmtl rkwave
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkwave.BMP
+   map_Kd rkwave.BMP
+
+newmtl tstcrowd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstcrowd.BMP
+   map_Kd tstcrowd.BMP
+
+newmtl doortext
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka gardoor.BMP
+   map_Kd gardoor.BMP
+
+newmtl all
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl grass
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkgrass.BMP
+   map_Kd rkgrass.BMP
+
+newmtl testcurb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka testcurb.BMP
+   map_Kd testcurb.BMP
+
+newmtl tstlogo
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstlogo1.BMP
+   map_Kd tstlogo1.BMP
+
+newmtl testroad
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffroad6.BMP
+   map_Kd ffroad6.BMP
+
+newmtl tstlego
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstlego.BMP
+   map_Kd tstlego.BMP
+
+newmtl tstturn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstturn2.BMP
+   map_Kd tstturn2.BMP
+
+newmtl tstmedia
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstmedia.BMP
+   map_Kd tstmedia.BMP
+
+newmtl tstroad2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstroad.BMP
+   map_Kd tstroad.BMP
+
+newmtl tstwall
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tstwall.BMP
+   map_Kd tstwall.BMP
+
+newmtl hub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka spac_tr3.BMP
+   map_Kd spac_tr3.BMP
+
+newmtl tstwind
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+

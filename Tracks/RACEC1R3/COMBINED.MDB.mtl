@@ -1,0 +1,207 @@
+# COMBINED.MDBmtl
+newmtl ipunder
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl mat01
+   Ka 0.267 0.192 0.545
+   Kd 0.267 0.192 0.545
+
+newmtl ipnwal1
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ipnwwal1.BMP
+   map_Kd ipnwwal1.BMP
+
+newmtl ip_wall
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_wall.BMP
+   map_Kd ip_wall.BMP
+
+newmtl ip_trkm2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_trkm2.BMP
+   map_Kd ip_trkm2.BMP
+
+newmtl ip_shim
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_shim1.BMP
+   map_Kd ip_shim1.BMP
+
+newmtl ip_icles
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_icles.BMP
+   map_Kd ip_icles.BMP
+
+newmtl ip_ice2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_ice2.BMP
+   map_Kd ip_ice2.BMP
+
+newmtl ip_ice
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_ice.BMP
+   map_Kd ip_ice.BMP
+
+newmtl ipicev
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_icev.BMP
+   map_Kd ip_icev.BMP
+
+newmtl icens
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_tice.BMP
+   map_Kd ip_tice.BMP
+
+newmtl icemns
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_ticem.BMP
+   map_Kd ip_ticem.BMP
+
+newmtl checker
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl ipblublk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ipblublk.BMP
+   map_Kd ipblublk.BMP
+
+newmtl ipnwwal0
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ipnwwal0.BMP
+   map_Kd ipnwwal0.BMP
+
+newmtl baswndr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka iporan.BMP
+   map_Kd iporan.BMP
+
+newmtl baslogo
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka wc_car.BMP
+   map_Kd wc_car.BMP
+
+newmtl basnub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+
+newmtl basundr
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl ipp_saw
+   Ka 0.616 0.427 0.761
+   Kd 0.616 0.427 0.761
+   map_Ka ippsaw.BMP
+   map_Kd ippsaw.BMP
+
+newmtl ipp_seat
+   Ka 0.388 0.529 0.192
+   Kd 0.388 0.529 0.192
+   map_Ka ipp_seat.BMP
+   map_Kd ipp_seat.BMP
+
+newmtl iptune
+   Ka 0.545 0.192 0.518
+   Kd 0.545 0.192 0.518
+   map_Ka iptune.BMP
+   map_Kd iptune.BMP
+
+newmtl iptuntr
+   Ka 0.639 0.549 0.192
+   Kd 0.639 0.549 0.192
+   map_Ka iptuntr.BMP
+   map_Kd iptuntr.BMP
+
+newmtl magnet
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka magnet02.BMP
+   map_Kd magnet02.BMP
+
+newmtl ip_trk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_trk.BMP
+   map_Kd ip_trk.BMP
+
+newmtl ipnone
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka blank.BMP
+   map_Kd blank.BMP
+
+newmtl ipsat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ipsat.BMP
+   map_Kd ipsat.BMP
+
+newmtl ipsup0
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ipsup0.BMP
+   map_Kd ipsup0.BMP
+
+newmtl winder
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka iporan.BMP
+   map_Kd iporan.BMP
+
+newmtl ip_lmp
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_lmp.BMP
+   map_Kd ip_lmp.BMP
+
+newmtl ip_llt02
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ip_llt02.BMP
+   map_Kd ip_llt02.BMP
+
+newmtl red
+   Ka 0.855 0.122 0.122
+   Kd 0.855 0.122 0.122
+   map_Ka iporan.BMP
+   map_Kd iporan.BMP
+
+newmtl plainmat
+   Ka 0.145 0.239 0.875
+   Kd 0.145 0.239 0.875
+
+newmtl ippundr
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl adnubint
+   Ka 0.616 0.427 0.761
+   Kd 0.616 0.427 0.761
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+

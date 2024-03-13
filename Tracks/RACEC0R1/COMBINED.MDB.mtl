@@ -1,0 +1,249 @@
+# COMBINED.MDBmtl
+newmtl dock
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ig_logs2.BMP
+   map_Kd ig_logs2.BMP
+
+newmtl rckwall
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka plnwal2.BMP
+   map_Kd plnwal2.BMP
+
+newmtl railing
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka mesh.BMP
+   map_Kd mesh.BMP
+
+newmtl undrside
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl net
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka netting.BMP
+   map_Kd netting.BMP
+
+newmtl minetrck
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka minetrck.BMP
+   map_Kd minetrck.BMP
+
+newmtl nub6
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka nub_6.BMP
+   map_Kd nub_6.BMP
+
+newmtl ipside
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka graswall.BMP
+   map_Kd graswall.BMP
+
+newmtl igrail
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ig_rail.BMP
+   map_Kd ig_rail.BMP
+
+newmtl adpcap
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl adstalk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
+newmtl twrroof
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka redroof.BMP
+   map_Kd redroof.BMP
+
+newmtl mate2646
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+
+newmtl iaroad0
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka road01.BMP
+   map_Kd road01.BMP
+
+newmtl iagrass
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka newgras.BMP
+   map_Kd newgras.BMP
+
+newmtl yllwwndw
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka yllwwndw.BMP
+   map_Kd yllwwndw.BMP
+
+newmtl iawater
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titwat2.BMP
+   map_Kd titwat2.BMP
+
+newmtl barrel2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka barrel2.BMP
+   map_Kd barrel2.BMP
+
+newmtl pilings
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka brown.BMP
+   map_Kd brown.BMP
+
+newmtl a1door
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka a1door.BMP
+   map_Kd a1door.BMP
+
+newmtl checker
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl holeinwl
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka holeinwl.BMP
+   map_Kd holeinwl.BMP
+
+newmtl twrwall
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka a1wndow.BMP
+   map_Kd a1wndow.BMP
+
+newmtl brcknwal
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka brcknwal.BMP
+   map_Kd brcknwal.BMP
+
+newmtl a1no
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka a1no.BMP
+   map_Kd a1no.BMP
+
+newmtl adrbbk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka aardbk.BMP
+   map_Kd aardbk.BMP
+
+newmtl caveroad
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka caveroad.BMP
+   map_Kd caveroad.BMP
+
+newmtl adlftop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl arrow
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka newarow.BMP
+   map_Kd newarow.BMP
+
+newmtl luwal
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ig_wall.BMP
+   map_Kd ig_wall.BMP
+
+newmtl adrdnblu
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adrdnblu.BMP
+   map_Kd adrdnblu.BMP
+
+newmtl cartweel
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka cartweel.BMP
+   map_Kd cartweel.BMP
+
+newmtl cartside
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka cartside.BMP
+   map_Kd cartside.BMP
+
+newmtl shipsail
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ig_flag2.BMP
+   map_Kd ig_flag2.BMP
+
+newmtl adlfbtm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl shipsml
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka shipsml.BMP
+   map_Kd shipsml.BMP
+
+newmtl plainmat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+
+newmtl shipnet
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka netting.BMP
+   map_Kd netting.BMP
+
+newmtl shipflag
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ig_flag1.BMP
+   map_Kd ig_flag1.BMP
+
+newmtl post
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka post.BMP
+   map_Kd post.BMP
+
+newmtl grywht
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka grywht.BMP
+   map_Kd grywht.BMP
+
+newmtl nonemat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka blank.BMP
+   map_Kd blank.BMP
+

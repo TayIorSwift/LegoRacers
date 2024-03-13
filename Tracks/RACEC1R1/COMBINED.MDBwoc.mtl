@@ -1,0 +1,173 @@
+# COMBINED.MDB.mtl
+newmtl titvine
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titvine2.BMP
+   map_Kd titvine2.BMP
+
+newmtl tittrans
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka tittrans.BMP
+   map_Kd tittrans.BMP
+
+newmtl watrbot
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titwat3.BMP
+   map_Kd titwat3.BMP
+
+newmtl titsand
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titsand.BMP
+   map_Kd titsand.BMP
+
+newmtl titrockg
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titrockg.BMP
+   map_Kd titrockg.BMP
+
+newmtl titsand2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titsand2.BMP
+   map_Kd titsand2.BMP
+
+newmtl titroad
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titroad.BMP
+   map_Kd titroad.BMP
+
+newmtl titcheck
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl titrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titrock.BMP
+   map_Kd titrock.BMP
+
+newmtl titlebot
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl titsheld
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titsheld.BMP
+   map_Kd titsheld.BMP
+
+newmtl titbolog
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titboat.BMP
+   map_Kd titboat.BMP
+
+newmtl titsaila
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titkklft.BMP
+   map_Kd titkklft.BMP
+
+newmtl titunder
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl titletop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl croctext
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka crocgren.BMP
+   map_Kd crocgren.BMP
+
+newmtl adlfbtm
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl adlftop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl adtrnubs
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl adtrstlk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
+newmtl titotnub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka nub.BMP
+   map_Kd nub.BMP
+
+newmtl nubx2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka nubx2.BMP
+   map_Kd nubx2.BMP
+
+newmtl titottop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titottop.BMP
+   map_Kd titottop.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl titoteye
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titoteye.BMP
+   map_Kd titoteye.BMP
+
+newmtl titotbot
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titotbot.BMP
+   map_Kd titotbot.BMP
+
+newmtl titsailb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titkkrgt.BMP
+   map_Kd titkkrgt.BMP
+
+newmtl titwater
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titwat3.BMP
+   map_Kd titwat3.BMP
+
+newmtl titflam1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titflam1.BMP
+   map_Kd titflam1.BMP
+

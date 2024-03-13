@@ -1,0 +1,249 @@
+# COMBINED.MDB.mtl
+newmtl dfbank
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfbank1.BMP
+   map_Kd dfbank1.BMP
+
+newmtl dfwin00
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin00.BMP
+   map_Kd dfwin00.BMP
+
+newmtl dfwall
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwall.BMP
+   map_Kd dfwall.BMP
+
+newmtl mate2653
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl dftreebk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dftreebk.BMP
+   map_Kd dftreebk.BMP
+
+newmtl dfstart
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl dfblack
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfblack.BMP
+   map_Kd dfblack.BMP
+
+newmtl dfpurp
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfpurp.BMP
+   map_Kd dfpurp.BMP
+
+newmtl dfbdragn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfbdragn.BMP
+   map_Kd dfbdragn.BMP
+
+newmtl dfcanopy
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfcanopy.BMP
+   map_Kd dfcanopy.BMP
+
+newmtl dfbwall
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfbwall.BMP
+   map_Kd dfbwall.BMP
+
+newmtl dfrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka addkrock.BMP
+   map_Kd addkrock.BMP
+
+newmtl dfroad1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfroad01.BMP
+   map_Kd dfroad01.BMP
+
+newmtl dfshutr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfshuter.BMP
+   map_Kd dfshuter.BMP
+
+newmtl dfrail
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfrail.BMP
+   map_Kd dfrail.BMP
+
+newmtl dfnubs
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfnubs.BMP
+   map_Kd dfnubs.BMP
+
+newmtl dframprt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dframprt.BMP
+   map_Kd dframprt.BMP
+
+newmtl dflegow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfgrywl.BMP
+   map_Kd dfgrywl.BMP
+
+newmtl dffall
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dffall00.BMP
+   map_Kd dffall00.BMP
+
+newmtl dfgrass0
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfgrass1.BMP
+   map_Kd dfgrass1.BMP
+
+newmtl dfunder
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka under02.BMP
+   map_Kd under02.BMP
+
+newmtl dflader
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dflader.BMP
+   map_Kd dflader.BMP
+
+newmtl dfnone
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfblack.BMP
+   map_Kd dfblack.BMP
+
+newmtl dfcrumbl
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfcrumbl.BMP
+   map_Kd dfcrumbl.BMP
+
+newmtl dfgrs2rd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfgrs2rd.BMP
+   map_Kd dfgrs2rd.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl arrow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka newarow.BMP
+   map_Kd newarow.BMP
+
+newmtl dfmw1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin01.BMP
+   map_Kd dfwin01.BMP
+
+newmtl dfmw3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin03.BMP
+   map_Kd dfwin03.BMP
+
+newmtl dfmw2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin02.BMP
+   map_Kd dfwin02.BMP
+
+newmtl dfwndr1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin00.BMP
+   map_Kd dfwin00.BMP
+
+newmtl dfmw0
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin00.BMP
+   map_Kd dfwin00.BMP
+
+newmtl dfwndr2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwin01.BMP
+   map_Kd dfwin01.BMP
+
+newmtl dfmoon
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfmoon.BMP
+   map_Kd dfmoon.BMP
+
+newmtl dfwand
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfwand.BMP
+   map_Kd dfwand.BMP
+
+newmtl mate2152
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfghost.BMP
+   map_Kd dfghost.BMP
+
+newmtl dfhslf
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dflegolf.BMP
+   map_Kd dflegolf.BMP
+
+newmtl dftwigu
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dftwigu.BMP
+   map_Kd dftwigu.BMP
+
+newmtl dftwigs
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dftwigs.BMP
+   map_Kd dftwigs.BMP
+
+newmtl post
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka post.BMP
+   map_Kd post.BMP
+
+newmtl dragnflg
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka drgnflag.BMP
+   map_Kd drgnflag.BMP
+
+newmtl dfleafy
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfsmleaf.BMP
+   map_Kd dfsmleaf.BMP
+

@@ -1,0 +1,147 @@
+# COMBINED.MDB.mtl
+newmtl rkfence
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkfence.BMP
+   map_Kd rkfence.BMP
+
+newmtl rkwave
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkwave.BMP
+   map_Kd rkwave.BMP
+
+newmtl rkgate
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkgate.BMP
+   map_Kd rkgate.BMP
+
+newmtl rkgrass
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkgrass.BMP
+   map_Kd rkgrass.BMP
+
+newmtl rktrans
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr.BMP
+   map_Kd aaawatr.BMP
+
+newmtl badgate
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ktfcpst.BMP
+   map_Kd ktfcpst.BMP
+
+newmtl dksheild
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka mj_shld1.BMP
+   map_Kd mj_shld1.BMP
+
+newmtl rkcaswal
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_caswl.BMP
+   map_Kd rr_caswl.BMP
+
+newmtl rkcaswin
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrclwin1.BMP
+   map_Kd rrclwin1.BMP
+
+newmtl rkcheck
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl rkdoor
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkdoor.BMP
+   map_Kd rkdoor.BMP
+
+newmtl rkdostan
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl rkrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkrock.BMP
+   map_Kd rkrock.BMP
+
+newmtl rkrug
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkrug.BMP
+   map_Kd rkrug.BMP
+
+newmtl rklitdor
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rklitdor.BMP
+   map_Kd rklitdor.BMP
+
+newmtl rknub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rknub.BMP
+   map_Kd rknub.BMP
+
+newmtl rkroad
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkroad4.BMP
+   map_Kd rkroad4.BMP
+
+newmtl rkwater
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titwat2.BMP
+   map_Kd titwat2.BMP
+
+newmtl rrclwin2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrclwin2.BMP
+   map_Kd rrclwin2.BMP
+
+newmtl rkshield
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_shld1.BMP
+   map_Kd rr_shld1.BMP
+
+newmtl rktowtop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rktowtop.BMP
+   map_Kd rktowtop.BMP
+
+newmtl rkunder
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffunder.BMP
+   map_Kd ffunder.BMP
+
+newmtl rktree
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rndtree.BMP
+   map_Kd rndtree.BMP
+
+newmtl rkhamshe
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffnub.BMP
+   map_Kd ffnub.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+

@@ -1,0 +1,173 @@
+# COMBINED.MDBmtl
+newmtl titvine
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titvine2.BMP
+   map_Kd titvine2.BMP
+
+newmtl tittrans
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka tittrans.BMP
+   map_Kd tittrans.BMP
+
+newmtl watrbot
+   Ka 0.047 0.200 0.980
+   Kd 0.047 0.200 0.980
+   map_Ka titwat3.BMP
+   map_Kd titwat3.BMP
+
+newmtl titsand
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titsand.BMP
+   map_Kd titsand.BMP
+
+newmtl titrockg
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titrockg.BMP
+   map_Kd titrockg.BMP
+
+newmtl titsand2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titsand2.BMP
+   map_Kd titsand2.BMP
+
+newmtl titroad
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titroad.BMP
+   map_Kd titroad.BMP
+
+newmtl titcheck
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl titrock
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titrock.BMP
+   map_Kd titrock.BMP
+
+newmtl titlebot
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl titsheld
+   Ka 0.502 0.502 0.502
+   Kd 0.502 0.502 0.502
+   map_Ka titsheld.BMP
+   map_Kd titsheld.BMP
+
+newmtl titbolog
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titboat.BMP
+   map_Kd titboat.BMP
+
+newmtl titsaila
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titkklft.BMP
+   map_Kd titkklft.BMP
+
+newmtl titunder
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undrside.BMP
+   map_Kd undrside.BMP
+
+newmtl titletop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl croctext
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka crocgren.BMP
+   map_Kd crocgren.BMP
+
+newmtl adlfbtm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl adlftop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl adtrnubs
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl adtrstlk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
+newmtl titotnub
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka nub.BMP
+   map_Kd nub.BMP
+
+newmtl nubx2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka nubx2.BMP
+   map_Kd nubx2.BMP
+
+newmtl titottop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titottop.BMP
+   map_Kd titottop.BMP
+
+newmtl plainmat
+   Ka 0.502 0.502 0.502
+   Kd 0.502 0.502 0.502
+
+newmtl titoteye
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titoteye.BMP
+   map_Kd titoteye.BMP
+
+newmtl titotbot
+   Ka 0.502 0.502 0.502
+   Kd 0.502 0.502 0.502
+   map_Ka titotbot.BMP
+   map_Kd titotbot.BMP
+
+newmtl titsailb
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titkkrgt.BMP
+   map_Kd titkkrgt.BMP
+
+newmtl titwater
+   Ka 0.047 0.200 0.980
+   Kd 0.047 0.200 0.980
+   map_Ka titwat3.BMP
+   map_Kd titwat3.BMP
+
+newmtl titflam1
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titflam1.BMP
+   map_Kd titflam1.BMP
+

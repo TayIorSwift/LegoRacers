@@ -1,0 +1,287 @@
+# COMBINED.MDB.mtl
+newmtl skluprgt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka skluprgt.BMP
+   map_Kd skluprgt.BMP
+
+newmtl skluplft
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka skluplft.BMP
+   map_Kd skluplft.BMP
+
+newmtl skllwrgt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka skllwrgt.BMP
+   map_Kd skllwrgt.BMP
+
+newmtl skllwlft
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka skllwlft.BMP
+   map_Kd skllwlft.BMP
+
+newmtl rock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psrock1.BMP
+   map_Kd psrock1.BMP
+
+newmtl psuprtrl
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psuprtrl.BMP
+   map_Kd psuprtrl.BMP
+
+newmtl pssandwl
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssandwl.BMP
+   map_Kd pssandwl.BMP
+
+newmtl psroadb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psroadb.BMP
+   map_Kd psroadb.BMP
+
+newmtl psrail
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psrrail.BMP
+   map_Kd psrrail.BMP
+
+newmtl psroad
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psroad.BMP
+   map_Kd psroad.BMP
+
+newmtl psrinr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psrinr.BMP
+   map_Kd psrinr.BMP
+
+newmtl psroad2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psrock2.BMP
+   map_Kd psrock2.BMP
+
+newmtl mate2220
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psladder.BMP
+   map_Kd psladder.BMP
+
+newmtl psbridge
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psbridge.BMP
+   map_Kd psbridge.BMP
+
+newmtl psstairs
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psstairs.BMP
+   map_Kd psstairs.BMP
+
+newmtl psrckgr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psrckgrs.BMP
+   map_Kd psrckgrs.BMP
+
+newmtl psline
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl pscolum
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_caswl.BMP
+   map_Kd rr_caswl.BMP
+
+newmtl vertex
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssand0.BMP
+   map_Kd pssand0.BMP
+
+newmtl psbamboo
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psbambo2.BMP
+   map_Kd psbambo2.BMP
+
+newmtl inrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka blank.BMP
+   map_Kd blank.BMP
+
+newmtl grass
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psgrass.BMP
+   map_Kd psgrass.BMP
+
+newmtl skulfcb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psskulb.BMP
+   map_Kd psskulb.BMP
+
+newmtl skulfct
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psskult.BMP
+   map_Kd psskult.BMP
+
+newmtl psmidshp
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psmidshp.BMP
+   map_Kd psmidshp.BMP
+
+newmtl psdbow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssail1.BMP
+   map_Kd pssail1.BMP
+
+newmtl psdsail
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssailsk.BMP
+   map_Kd pssailsk.BMP
+
+newmtl pssailsk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssailsk.BMP
+   map_Kd pssailsk.BMP
+
+newmtl psside
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psside.BMP
+   map_Kd psside.BMP
+
+newmtl pssidew
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssidew.BMP
+   map_Kd pssidew.BMP
+
+newmtl psstrip
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pswstrip.BMP
+   map_Kd pswstrip.BMP
+
+newmtl psbow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psbow.BMP
+   map_Kd psbow.BMP
+
+newmtl pswater
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titwat2.BMP
+   map_Kd titwat2.BMP
+
+newmtl twerflag
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pspirflg.BMP
+   map_Kd pspirflg.BMP
+
+newmtl rr_caswl
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_caswl.BMP
+   map_Kd rr_caswl.BMP
+
+newmtl pspirflg
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pspirflg.BMP
+   map_Kd pspirflg.BMP
+
+newmtl pssail
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pssail1.BMP
+   map_Kd pssail1.BMP
+
+newmtl pscorner
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pscorner.BMP
+   map_Kd pscorner.BMP
+
+newmtl psstripe
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psbstrip.BMP
+   map_Kd psbstrip.BMP
+
+newmtl psbflag
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka pspirflg.BMP
+   map_Kd pspirflg.BMP
+
+newmtl psbcrn0
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psbcrn0.BMP
+   map_Kd psbcrn0.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl adstalk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
+newmtl adpcap
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl adlftop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl adlfbtm
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl psstermn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psstern.BMP
+   map_Kd psstern.BMP
+
+newmtl psladder
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka psladder.BMP
+   map_Kd psladder.BMP
+

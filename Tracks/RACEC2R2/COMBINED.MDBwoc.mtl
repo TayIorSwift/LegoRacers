@@ -1,0 +1,297 @@
+# COMBINED.MDB.mtl
+newmtl atchn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atchn.BMP
+   map_Kd atchn.BMP
+
+newmtl mmlava
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka mmlava.BMP
+   map_Kd mmlava.BMP
+
+newmtl atclaw
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atclaw.BMP
+   map_Kd atclaw.BMP
+
+newmtl vntst
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atvintst.BMP
+   map_Kd atvintst.BMP
+
+newmtl trkall
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl ygr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ygr.BMP
+   map_Kd ygr.BMP
+
+newmtl lights
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atltptcl.BMP
+   map_Kd atltptcl.BMP
+
+newmtl atgrnd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atgrnd.BMP
+   map_Kd atgrnd.BMP
+
+newmtl lgotrkb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka lgotrkb.BMP
+   map_Kd lgotrkb.BMP
+
+newmtl legotrk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka legotrk.BMP
+   map_Kd legotrk.BMP
+
+newmtl nub2use
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka nub2use.BMP
+   map_Kd nub2use.BMP
+
+newmtl hirowng1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka hirowng1.BMP
+   map_Kd hirowng1.BMP
+
+newmtl checker
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl hirowng2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka hirowng2.BMP
+   map_Kd hirowng2.BMP
+
+newmtl atwall1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atwall1.BMP
+   map_Kd atwall1.BMP
+
+newmtl attrn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka attrn.BMP
+   map_Kd attrn.BMP
+
+newmtl aasklswb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aasklswb.BMP
+   map_Kd aasklswb.BMP
+
+newmtl aasklswt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aasklswt.BMP
+   map_Kd aasklswt.BMP
+
+newmtl aatan
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aatan.BMP
+   map_Kd aatan.BMP
+
+newmtl ad2by
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ad2by.BMP
+   map_Kd ad2by.BMP
+
+newmtl adheiro2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adhiero2.BMP
+   map_Kd adhiero2.BMP
+
+newmtl adheiro3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adhiero3.BMP
+   map_Kd adhiero3.BMP
+
+newmtl adhiero
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adhiero.BMP
+   map_Kd adhiero.BMP
+
+newmtl adhiero4
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adhiero4.BMP
+   map_Kd adhiero4.BMP
+
+newmtl adroad3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adroad3.BMP
+   map_Kd adroad3.BMP
+
+newmtl atlgobk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atlgobk.BMP
+   map_Kd atlgobk.BMP
+
+newmtl atrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atrock.BMP
+   map_Kd atrock.BMP
+
+newmtl chain
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka chain.BMP
+   map_Kd chain.BMP
+
+newmtl athiro1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka athiro1.BMP
+   map_Kd athiro1.BMP
+
+newmtl athiro2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka athiro2.BMP
+   map_Kd athiro2.BMP
+
+newmtl athole
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka athole.BMP
+   map_Kd athole.BMP
+
+newmtl attop1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka attop1.BMP
+   map_Kd attop1.BMP
+
+newmtl atrock2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atrock2.BMP
+   map_Kd atrock2.BMP
+
+newmtl atsn1654
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atsndsml.BMP
+   map_Kd atsndsml.BMP
+
+newmtl attft
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka attft.BMP
+   map_Kd attft.BMP
+
+newmtl attop2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka attop2.BMP
+   map_Kd attop2.BMP
+
+newmtl igmncrt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka igmncrt.BMP
+   map_Kd igmncrt.BMP
+
+newmtl coffin2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka cofin2.BMP
+   map_Kd cofin2.BMP
+
+newmtl mate2199
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titflam1.BMP
+   map_Kd titflam1.BMP
+
+newmtl igctwel
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka igctwel.BMP
+   map_Kd igctwel.BMP
+
+newmtl atskls
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atskls.BMP
+   map_Kd atskls.BMP
+
+newmtl bshtre
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka bushtree.BMP
+   map_Kd bushtree.BMP
+
+newmtl aaleaf
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaleaf.BMP
+   map_Kd aaleaf.BMP
+
+newmtl dfslft
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka dfsmleaf.BMP
+   map_Kd dfsmleaf.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl mate2627
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atwhee2.BMP
+   map_Kd atwhee2.BMP
+
+newmtl attube
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka attube.BMP
+   map_Kd attube.BMP
+
+newmtl mate2205
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka atsklpst.BMP
+   map_Kd atsklpst.BMP
+
+newmtl coffin1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka cofin1.BMP
+   map_Kd cofin1.BMP
+
+newmtl idol
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka idol.BMP
+   map_Kd idol.BMP
+

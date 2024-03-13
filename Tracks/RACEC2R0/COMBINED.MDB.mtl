@@ -1,0 +1,435 @@
+# COMBINED.MDBmtl
+newmtl ktmntn
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktmntn.BMP
+   map_Kd ktmntn.BMP
+
+newmtl undsd32
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka undsd32.BMP
+   map_Kd undsd32.BMP
+
+newmtl titroad
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka titroad.BMP
+   map_Kd titroad.BMP
+
+newmtl ktwtchpc
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwtchpc.BMP
+   map_Kd ktwtchpc.BMP
+
+newmtl ktwstngt
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwstngt.BMP
+   map_Kd ktwstngt.BMP
+
+newmtl ktwstngb
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwstngb.BMP
+   map_Kd ktwstngb.BMP
+
+newmtl ktwall2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwall2.BMP
+   map_Kd ktwall2.BMP
+
+newmtl ktwall1
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwall1.BMP
+   map_Kd ktwall1.BMP
+
+newmtl kttkall
+   Ka 0.192 0.475 0.545
+   Kd 0.192 0.475 0.545
+
+newmtl kttable
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka kttable.BMP
+   map_Kd kttable.BMP
+
+newmtl ktshlpic
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktshlpic.BMP
+   map_Kd ktshlpic.BMP
+
+newmtl ktsdgrvl
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktsdgrvl.BMP
+   map_Kd ktsdgrvl.BMP
+
+newmtl ktsdgrv2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktsdgrv2.BMP
+   map_Kd ktsdgrv2.BMP
+
+newmtl ktrmprt
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktrmprt.BMP
+   map_Kd ktrmprt.BMP
+
+newmtl ktrd2stn
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktrd2stn.BMP
+   map_Kd ktrd2stn.BMP
+
+newmtl ktrcktop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktrcktop.BMP
+   map_Kd ktrcktop.BMP
+
+newmtl ktmntn2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktmntn2.BMP
+   map_Kd ktmntn2.BMP
+
+newmtl ktmbroom
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktmbroom.BMP
+   map_Kd ktmbroom.BMP
+
+newmtl ktgrybkw
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktgrybkw.BMP
+   map_Kd ktgrybkw.BMP
+
+newmtl ktgrybk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktgrybk.BMP
+   map_Kd ktgrybk.BMP
+
+newmtl ktltbm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktltbm.BMP
+   map_Kd ktltbm.BMP
+
+newmtl ktcldstm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktcldstm.BMP
+   map_Kd ktcldstm.BMP
+
+newmtl ktgravsd
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktgravsd.BMP
+   map_Kd ktgravsd.BMP
+
+newmtl ktgravl
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktgravl.BMP
+   map_Kd ktgravl.BMP
+
+newmtl ktfcpst
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktfcpst.BMP
+   map_Kd ktfcpst.BMP
+
+newmtl ktcbstn
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktcbstn.BMP
+   map_Kd ktcbstn.BMP
+
+newmtl ktcabnit
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktcabnit.BMP
+   map_Kd ktcabnit.BMP
+
+newmtl ktbsil
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktbsil.BMP
+   map_Kd ktbsil.BMP
+
+newmtl ktbrick
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktbrick.BMP
+   map_Kd ktbrick.BMP
+
+newmtl ktbrdge
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktbrdge.BMP
+   map_Kd ktbrdge.BMP
+
+newmtl ktbkred
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktbkred.BMP
+   map_Kd ktbkred.BMP
+
+newmtl gate64
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka gate64.BMP
+   map_Kd gate64.BMP
+
+newmtl checker
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl aanub3
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka aanub3.BMP
+   map_Kd aanub3.BMP
+
+newmtl bat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka bat.BMP
+   map_Kd bat.BMP
+
+newmtl ktarch2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktarch2.BMP
+   map_Kd ktarch2.BMP
+
+newmtl flg0012
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0012.BMP
+   map_Kd flg0012.BMP
+
+newmtl flg0008
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0008.BMP
+   map_Kd flg0008.BMP
+
+newmtl skullhd2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka skullhd2.BMP
+   map_Kd skullhd2.BMP
+
+newmtl flg0020
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0020.BMP
+   map_Kd flg0020.BMP
+
+newmtl bat2
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka bat2.BMP
+   map_Kd bat2.BMP
+
+newmtl flg0016
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0016.BMP
+   map_Kd flg0016.BMP
+
+newmtl flg0000
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0000.BMP
+   map_Kd flg0000.BMP
+
+newmtl under02
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka under02.BMP
+   map_Kd under02.BMP
+
+newmtl ktwtch
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwtch.BMP
+   map_Kd ktwtch.BMP
+
+newmtl ktdhed
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdhed.BMP
+   map_Kd ktdhed.BMP
+
+newmtl ktdear
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdear.BMP
+   map_Kd ktdear.BMP
+
+newmtl ktdbelly
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdbelly.BMP
+   map_Kd ktdbelly.BMP
+
+newmtl ktdarm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdarm.BMP
+   map_Kd ktdarm.BMP
+
+newmtl ktaxe
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktaxe.BMP
+   map_Kd ktaxe.BMP
+
+newmtl ignet
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ignet.BMP
+   map_Kd ignet.BMP
+
+newmtl bb_wing
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka bb_wing.BMP
+   map_Kd bb_wing.BMP
+
+newmtl ktarch
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktarch.BMP
+   map_Kd ktarch.BMP
+
+newmtl ktcldhnd
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktcldhnd.BMP
+   map_Kd ktcldhnd.BMP
+
+newmtl ktdwing
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdwing.BMP
+   map_Kd ktdwing.BMP
+
+newmtl ktdbhed
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdbhed.BMP
+   map_Kd ktdbhed.BMP
+
+newmtl ktdbear
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdbear.BMP
+   map_Kd ktdbear.BMP
+
+newmtl ktdbbely
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdbbely.BMP
+   map_Kd ktdbbely.BMP
+
+newmtl ktdbarm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktdbarm.BMP
+   map_Kd ktdbarm.BMP
+
+newmtl flg0004
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0004.BMP
+   map_Kd flg0004.BMP
+
+newmtl chain
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka chain32.BMP
+   map_Kd chain32.BMP
+
+newmtl skulldh
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka skullhd.BMP
+   map_Kd skullhd.BMP
+
+newmtl ktflgple
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktflgple.BMP
+   map_Kd ktflgple.BMP
+
+newmtl kttwrt
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka kttwrt.BMP
+   map_Kd kttwrt.BMP
+
+newmtl kttwrb
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka kttwrb.BMP
+   map_Kd kttwrb.BMP
+
+newmtl adtorch
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtorch.BMP
+   map_Kd adtorch.BMP
+
+newmtl ktcsbl
+   Ka 0.545 0.192 0.518
+   Kd 0.545 0.192 0.518
+   map_Ka ktcbl.BMP
+   map_Kd ktcbl.BMP
+
+newmtl ktshild1
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktshild1.BMP
+   map_Kd ktshild1.BMP
+
+newmtl plainmat
+   Ka 0.200 0.553 0.176
+   Kd 0.200 0.553 0.176
+
+newmtl ktwthat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwthat.BMP
+   map_Kd ktwthat.BMP
+
+newmtl ktwtfce
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktwtfce.BMP
+   map_Kd ktwtfce.BMP
+
+newmtl ktcauldn
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ktcauldn.BMP
+   map_Kd ktcauldn.BMP
+
+newmtl flg0024
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka flg0024.BMP
+   map_Kd flg0024.BMP
+

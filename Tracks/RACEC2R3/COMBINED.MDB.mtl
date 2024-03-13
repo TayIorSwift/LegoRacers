@@ -1,0 +1,219 @@
+# COMBINED.MDBmtl
+newmtl mate2191
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+
+newmtl ffgrate2
+   Ka 0.192 0.310 0.545
+   Kd 0.192 0.310 0.545
+   map_Ka ffgrate2.BMP
+   map_Kd ffgrate2.BMP
+
+newmtl titwat2
+   Ka 0.639 0.549 0.192
+   Kd 0.639 0.549 0.192
+   map_Ka titwat2.BMP
+   map_Kd titwat2.BMP
+
+newmtl arawing2
+   Ka 0.655 0.651 0.208
+   Kd 0.655 0.651 0.208
+   map_Ka arawing2.BMP
+   map_Kd arawing2.BMP
+
+newmtl arashldr
+   Ka 0.388 0.529 0.192
+   Kd 0.388 0.529 0.192
+   map_Ka arasldr2.BMP
+   map_Kd arasldr2.BMP
+
+newmtl araenrgy
+   Ka 0.278 0.192 0.914
+   Kd 0.278 0.192 0.914
+   map_Ka araenrgy.BMP
+   map_Kd araenrgy.BMP
+
+newmtl checker
+   Ka 0.192 0.475 0.545
+   Kd 0.192 0.475 0.545
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl ararocks
+   Ka 0.267 0.192 0.545
+   Kd 0.267 0.192 0.545
+   map_Ka ararocks.BMP
+   map_Kd ararocks.BMP
+
+newmtl araroad
+   Ka 0.545 0.192 0.518
+   Kd 0.545 0.192 0.518
+   map_Ka araroad.BMP
+   map_Kd araroad.BMP
+
+newmtl araract2
+   Ka 0.647 0.192 0.376
+   Kd 0.647 0.192 0.376
+   map_Ka araract2.BMP
+   map_Kd araract2.BMP
+
+newmtl araract
+   Ka 0.980 0.992 0.000
+   Kd 0.980 0.992 0.000
+   map_Ka araract.BMP
+   map_Kd araract.BMP
+
+newmtl arametal
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka arametal.BMP
+   map_Kd arametal.BMP
+
+newmtl arabeam
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka arabeam.BMP
+   map_Kd arabeam.BMP
+
+newmtl aracurb
+   Ka 0.106 0.671 0.651
+   Kd 0.106 0.671 0.651
+   map_Ka aracurb2.BMP
+   map_Kd aracurb2.BMP
+
+newmtl aracomb2
+   Ka 0.655 0.357 0.192
+   Kd 0.655 0.357 0.192
+   map_Ka aracomb2.BMP
+   map_Kd aracomb2.BMP
+
+newmtl aracelng
+   Ka 0.616 0.427 0.761
+   Kd 0.616 0.427 0.761
+   map_Ka aracelng.BMP
+   map_Kd aracelng.BMP
+
+newmtl adnubint
+   Ka 0.557 0.725 0.192
+   Kd 0.557 0.725 0.192
+   map_Ka ffnub.BMP
+   map_Kd ffnub.BMP
+
+newmtl plainmat
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+
+newmtl mate1760
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araradon.BMP
+   map_Kd araradon.BMP
+
+newmtl wingy2
+   Ka 0.545 0.192 0.518
+   Kd 0.545 0.192 0.518
+   map_Ka wingy2.BMP
+   map_Kd wingy2.BMP
+
+newmtl dome
+   Ka 0.988 1.000 0.000
+   Kd 0.988 1.000 0.000
+   map_Ka arawndow.BMP
+   map_Kd arawndow.BMP
+
+newmtl clear
+   Ka 0.639 0.549 0.192
+   Kd 0.639 0.549 0.192
+   map_Ka clr_dskb.BMP
+   map_Kd clr_dskb.BMP
+
+newmtl aranbula
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka aranbula.BMP
+   map_Kd aranbula.BMP
+
+newmtl araastrd
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araastrd.BMP
+   map_Kd araastrd.BMP
+
+newmtl ararobot
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ararobot.BMP
+   map_Kd ararobot.BMP
+
+newmtl mate1774
+   Ka 0.267 0.192 0.545
+   Kd 0.267 0.192 0.545
+   map_Ka blknub4.BMP
+   map_Kd blknub4.BMP
+
+newmtl mate1767
+   Ka 0.200 0.553 0.176
+   Kd 0.200 0.553 0.176
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+
+newmtl araufo4
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araufo4.BMP
+   map_Kd araufo4.BMP
+
+newmtl araufo3
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araufo3.BMP
+   map_Kd araufo3.BMP
+
+newmtl aralogo
+   Ka 0.361 0.361 0.361
+   Kd 0.361 0.361 0.361
+   map_Ka aralogo.BMP
+   map_Kd aralogo.BMP
+
+newmtl wingy1
+   Ka 0.192 0.475 0.545
+   Kd 0.192 0.475 0.545
+   map_Ka wingy1.BMP
+   map_Kd wingy1.BMP
+
+newmtl araufo2
+   Ka 0.200 0.553 0.176
+   Kd 0.200 0.553 0.176
+   map_Ka araufo2.BMP
+   map_Kd araufo2.BMP
+
+newmtl arawndow
+   Ka 0.106 0.671 0.651
+   Kd 0.106 0.671 0.651
+   map_Ka arawndow.BMP
+   map_Kd arawndow.BMP
+
+newmtl araufolg
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araufolg.BMP
+   map_Kd araufolg.BMP
+
+newmtl face
+   Ka 0.388 0.529 0.192
+   Kd 0.388 0.529 0.192
+   map_Ka alnhead.BMP
+   map_Kd alnhead.BMP
+
+newmtl araufo1
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka araufo1.BMP
+   map_Kd araufo1.BMP
+
+newmtl gmchest
+   Ka 0.655 0.357 0.192
+   Kd 0.655 0.357 0.192
+   map_Ka gm_chest.BMP
+   map_Kd gm_chest.BMP
+

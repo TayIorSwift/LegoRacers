@@ -1,0 +1,201 @@
+# COMBINED.MDB.mtl
+newmtl rrcwndow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcwndow.BMP
+   map_Kd rrcwndow.BMP
+
+newmtl nub
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffnub.BMP
+   map_Kd ffnub.BMP
+
+newmtl rrcurb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcurb.BMP
+   map_Kd rrcurb.BMP
+
+newmtl rrcurb2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcurb2.BMP
+   map_Kd rrcurb2.BMP
+
+newmtl rr_chst
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_chst.BMP
+   map_Kd rr_chst.BMP
+
+newmtl rrcwrkt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcwrkt.BMP
+   map_Kd rrcwrkt.BMP
+
+newmtl rredge
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rredge.BMP
+   map_Kd rredge.BMP
+
+newmtl mate1802
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rkwave.BMP
+   map_Kd rkwave.BMP
+
+newmtl door
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrpanel.BMP
+   map_Kd rrpanel.BMP
+
+newmtl warpent
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka warp.BMP
+   map_Kd warp.BMP
+
+newmtl adnubint
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+
+newmtl checker
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl ffwind2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka ffwind2.BMP
+   map_Kd ffwind2.BMP
+
+newmtl mat95
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl rrarch
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrarch.BMP
+   map_Kd rrarch.BMP
+
+newmtl rrcelgn2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcelng2.BMP
+   map_Kd rrcelng2.BMP
+
+newmtl rrcelng
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrcelng.BMP
+   map_Kd rrcelng.BMP
+
+newmtl rrlite8
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite8.BMP
+   map_Kd rrlite8.BMP
+
+newmtl rrlite1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite1.BMP
+   map_Kd rrlite1.BMP
+
+newmtl rrlite2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite2.BMP
+   map_Kd rrlite2.BMP
+
+newmtl rrlite3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite3.BMP
+   map_Kd rrlite3.BMP
+
+newmtl rrlite4
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite4.BMP
+   map_Kd rrlite4.BMP
+
+newmtl rrlite5
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite5.BMP
+   map_Kd rrlite5.BMP
+
+newmtl rrlite6
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite6.BMP
+   map_Kd rrlite6.BMP
+
+newmtl rrlite7
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrlite7.BMP
+   map_Kd rrlite7.BMP
+
+newmtl rrroad
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrroad.BMP
+   map_Kd rrroad.BMP
+
+newmtl rrpanel2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrpanel2.BMP
+   map_Kd rrpanel2.BMP
+
+newmtl rrpanel3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrpanel3.BMP
+   map_Kd rrpanel3.BMP
+
+newmtl rrpanel4
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrpanel4.BMP
+   map_Kd rrpanel4.BMP
+
+newmtl rrroady
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrroady.BMP
+   map_Kd rrroady.BMP
+
+newmtl rrtringl
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrtringl.BMP
+   map_Kd rrtringl.BMP
+
+newmtl rrwind2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrwind2.BMP
+   map_Kd rrwind2.BMP
+
+newmtl rrylwarw
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rrylwarw.BMP
+   map_Kd rrylwarw.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+

@@ -1,0 +1,285 @@
+# COMBINED.MDBmtl
+newmtl adpillar
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adpillar.BMP
+   map_Kd adpillar.BMP
+
+newmtl hiero
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adhiero.BMP
+   map_Kd adhiero.BMP
+
+newmtl adylwblu
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adylwblu.BMP
+   map_Kd adylwblu.BMP
+
+newmtl mate2205
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+
+newmtl adwing
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adwing.BMP
+   map_Kd adwing.BMP
+
+newmtl adsd2rc
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adsd2rk2.BMP
+   map_Kd adsd2rk2.BMP
+
+newmtl adwtr
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adwtr_00.BMP
+   map_Kd adwtr_00.BMP
+
+newmtl adroad
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adroad7.BMP
+   map_Kd adroad7.BMP
+
+newmtl adrdnblu
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adrdnblu.BMP
+   map_Kd adrdnblu.BMP
+
+newmtl adrock
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adrock1.BMP
+   map_Kd adrock1.BMP
+
+newmtl adpymid
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adpymid.BMP
+   map_Kd adpymid.BMP
+
+newmtl adphside
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adphside.BMP
+   map_Kd adphside.BMP
+
+newmtl adrd2snd
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adrd2sd2.BMP
+   map_Kd adrd2sd2.BMP
+
+newmtl adnubint
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+
+newmtl adhiero3
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adhiero3.BMP
+   map_Kd adhiero3.BMP
+
+newmtl adphmid
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adphmid.BMP
+   map_Kd adphmid.BMP
+
+newmtl adhier0
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adhier0.BMP
+   map_Kd adhier0.BMP
+
+newmtl adgynbk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adgynbk.BMP
+   map_Kd adgynbk.BMP
+
+newmtl adhierno
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adhierno.BMP
+   map_Kd adhierno.BMP
+
+newmtl ad2by
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka ad2by.BMP
+   map_Kd ad2by.BMP
+
+newmtl adsand
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adsand2.BMP
+   map_Kd adsand2.BMP
+
+newmtl dadoor
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka da_door.BMP
+   map_Kd da_door.BMP
+
+newmtl adfinish
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl adglyph
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adglyphs.BMP
+   map_Kd adglyphs.BMP
+
+newmtl adeye
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adeye.BMP
+   map_Kd adeye.BMP
+
+newmtl adtorch
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtorch.BMP
+   map_Kd adtorch.BMP
+
+newmtl addkrock
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addkrock.BMP
+   map_Kd addkrock.BMP
+
+newmtl addis03
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis03.BMP
+   map_Kd addis03.BMP
+
+newmtl addis05
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis05.BMP
+   map_Kd addis05.BMP
+
+newmtl addis04
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis04.BMP
+   map_Kd addis04.BMP
+
+newmtl addis00
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis00.BMP
+   map_Kd addis00.BMP
+
+newmtl addis02
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis02.BMP
+   map_Kd addis02.BMP
+
+newmtl addis01
+   Ka 1.000 0.992 0.992
+   Kd 1.000 0.992 0.992
+   map_Ka addis01.BMP
+   map_Kd addis01.BMP
+
+newmtl adcrs03
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adcrs03.BMP
+   map_Kd adcrs03.BMP
+
+newmtl adcrsgly
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adcrsgly.BMP
+   map_Kd adcrsgly.BMP
+
+newmtl adcrs04
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka addis05.BMP
+   map_Kd addis05.BMP
+
+newmtl nub_b2
+   Ka 0.000 0.435 0.192
+   Kd 0.000 0.435 0.192
+   map_Ka nub-b2.BMP
+   map_Kd nub-b2.BMP
+
+newmtl adcrs02
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adcrs02.BMP
+   map_Kd adcrs02.BMP
+
+newmtl adcrs01
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adcrs01.BMP
+   map_Kd adcrs01.BMP
+
+newmtl plainmat
+   Ka 1.000 0.969 0.847
+   Kd 1.000 0.969 0.847
+
+newmtl crshld_b
+   Ka 0.988 0.357 0.490
+   Kd 0.988 0.357 0.490
+   map_Ka crshld_b.BMP
+   map_Kd crshld_b.BMP
+
+newmtl tent
+   Ka 0.192 0.388 0.678
+   Kd 0.192 0.388 0.678
+   map_Ka tent.BMP
+   map_Kd tent.BMP
+
+newmtl adpcap
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl mate1781
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka da_door.BMP
+   map_Kd da_door.BMP
+
+newmtl adstalk
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
+newmtl adpilbtm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adpilbtm.BMP
+   map_Kd adpilbtm.BMP
+
+newmtl adlftop
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl adlfbtm
+   Ka 0.498 0.498 0.498
+   Kd 0.498 0.498 0.498
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+

@@ -1,0 +1,399 @@
+# COMBINED.MDB.mtl
+newmtl aaltbm2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaltbem.BMP
+   map_Kd aaltbem.BMP
+
+newmtl aaawatr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr.BMP
+   map_Kd aaawatr.BMP
+
+newmtl titrock
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka titrock.BMP
+   map_Kd titrock.BMP
+
+newmtl sk_face
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka sk_face.BMP
+   map_Kd sk_face.BMP
+
+newmtl rr_stnrd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_stnrd.BMP
+   map_Kd rr_stnrd.BMP
+
+newmtl rr_brge
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka rr_brge.BMP
+   map_Kd rr_brge.BMP
+
+newmtl parrot
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka parrot.BMP
+   map_Kd parrot.BMP
+
+newmtl nubholeg
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka nubholeg.BMP
+   map_Kd nubholeg.BMP
+
+newmtl nubhole
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka nubhole.BMP
+   map_Kd nubhole.BMP
+
+newmtl mate2144
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aafence.BMP
+   map_Kd aafence.BMP
+
+newmtl checker
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka checker.BMP
+   map_Kd checker.BMP
+
+newmtl basic
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl aavnbk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aavnbk.BMP
+   map_Kd aavnbk.BMP
+
+newmtl aardbk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aardbk.BMP
+   map_Kd aardbk.BMP
+
+newmtl aanub3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aanub3.BMP
+   map_Kd aanub3.BMP
+
+newmtl aablurd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aablurd.BMP
+   map_Kd aablurd.BMP
+
+newmtl aaawlman
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawlman.BMP
+   map_Kd aaawlman.BMP
+
+newmtl aaaweb
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaweb.BMP
+   map_Kd aaaweb.BMP
+
+newmtl aaavines
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaavines.BMP
+   map_Kd aaavines.BMP
+
+newmtl aaatrim
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaatrim.BMP
+   map_Kd aaatrim.BMP
+
+newmtl aaalftrm
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaalftrm.BMP
+   map_Kd aaalftrm.BMP
+
+newmtl aaalftm3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaalftm3.BMP
+   map_Kd aaalftm3.BMP
+
+newmtl aaalftm2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaalftm2.BMP
+   map_Kd aaalftm2.BMP
+
+newmtl aaaleaf2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaleaf2.BMP
+   map_Kd aaaleaf2.BMP
+
+newmtl under02
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka under02.BMP
+   map_Kd under02.BMP
+
+newmtl aaaamzon
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr.BMP
+   map_Kd aaawatr.BMP
+
+newmtl aaawatr3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr.BMP
+   map_Kd aaawatr.BMP
+
+newmtl aaapool
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr2.BMP
+   map_Kd aaawatr2.BMP
+
+newmtl aaadrtrd
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaadrtrd.BMP
+   map_Kd aaadrtrd.BMP
+
+newmtl aaabrick
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaabrick.BMP
+   map_Kd aaabrick.BMP
+
+newmtl adlfbtm
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlfbtm.BMP
+   map_Kd adlfbtm.BMP
+
+newmtl adlftop
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adlftop.BMP
+   map_Kd adlftop.BMP
+
+newmtl aaaleaf
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaleaf.BMP
+   map_Kd aaaleaf.BMP
+
+newmtl undsd32
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka undsd32.BMP
+   map_Kd undsd32.BMP
+
+newmtl aa_teth
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_teth.BMP
+   map_Kd aa_teth.BMP
+
+newmtl aaawatr2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaawatr.BMP
+   map_Kd aaawatr.BMP
+
+newmtl adtrnubs
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrnubs.BMP
+   map_Kd adtrnubs.BMP
+
+newmtl prop3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaprop2.BMP
+   map_Kd aaaprop2.BMP
+
+newmtl post
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka post.BMP
+   map_Kd post.BMP
+
+newmtl prop4
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaprop2.BMP
+   map_Kd aaaprop2.BMP
+
+newmtl arrow
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka newarow.BMP
+   map_Kd newarow.BMP
+
+newmtl adnubint
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adnubint.BMP
+   map_Kd adnubint.BMP
+
+newmtl aa_pilt
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_pilt.BMP
+   map_Kd aa_pilt.BMP
+
+newmtl aaaprop2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaprop1.BMP
+   map_Kd aaaprop1.BMP
+
+newmtl plainmat
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+
+newmtl advn_tr1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka advn_tr1.BMP
+   map_Kd advn_tr1.BMP
+
+newmtl aaaprop3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaprop1.BMP
+   map_Kd aaaprop1.BMP
+
+newmtl aa_windo
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_windo.BMP
+   map_Kd aa_windo.BMP
+
+newmtl aa_stip
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_stip.BMP
+   map_Kd aa_stip.BMP
+
+newmtl aa_rolbr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_rolbr.BMP
+   map_Kd aa_rolbr.BMP
+
+newmtl aa_man3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_man3.BMP
+   map_Kd aa_man3.BMP
+
+newmtl aa_man2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_man2.BMP
+   map_Kd aa_man2.BMP
+
+newmtl aa_man1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_man1.BMP
+   map_Kd aa_man1.BMP
+
+newmtl aa_logo2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_logo2.BMP
+   map_Kd aa_logo2.BMP
+
+newmtl aa_logo1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_logo1.BMP
+   map_Kd aa_logo1.BMP
+
+newmtl aa_fin4
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_fin4.BMP
+   map_Kd aa_fin4.BMP
+
+newmtl aa_fin3
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_fin3.BMP
+   map_Kd aa_fin3.BMP
+
+newmtl aa_fin2
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_fin2.BMP
+   map_Kd aa_fin2.BMP
+
+newmtl aa_fin1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_fin1.BMP
+   map_Kd aa_fin1.BMP
+
+newmtl aa_face1
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_face1.BMP
+   map_Kd aa_face1.BMP
+
+newmtl aa_engn
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_engn.BMP
+   map_Kd aa_engn.BMP
+
+newmtl aa_brer
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_brer.BMP
+   map_Kd aa_brer.BMP
+
+newmtl aa_brear
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_brear.BMP
+   map_Kd aa_brear.BMP
+
+newmtl aa_bar
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_bar.BMP
+   map_Kd aa_bar.BMP
+
+newmtl aaaspidr
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aaaspidr.BMP
+   map_Kd aaaspidr.BMP
+
+newmtl aa_botm
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka aa_botm.BMP
+   map_Kd aa_botm.BMP
+
+newmtl adtrstlk
+   Ka 1.000 1.000 1.000
+   Kd 1.000 1.000 1.000
+   map_Ka adtrstlk.BMP
+   map_Kd adtrstlk.BMP
+
